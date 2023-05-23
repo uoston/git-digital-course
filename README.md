@@ -1,4 +1,4 @@
-# urso Digital: Git/Versionamento
+# Curso Digital: Git/Versionamento
 
 ## Salvando alterações no Git
 
